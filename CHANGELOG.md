@@ -1,5 +1,17 @@
 # Changelog
 
+## [21.20.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.19.0...v21.20.0) (2025-01-14)
+
+
+### Features
+
+* **add:** C-ZB-DM204 ([#8609](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8609)) ([ef7ac30](https://github.com/Koenkk/zigbee-herdsman-converters/commit/ef7ac30befdfa980f139249ea62c8db7a985d9a5))
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZE204_57hjqelq` as Roximo CRTZ01 ([#8607](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8607)) ([341f3ef](https://github.com/Koenkk/zigbee-herdsman-converters/commit/341f3efd3f0f03e88d032cf98e3321b146c477d7))
+
 ## [21.19.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.18.0...v21.19.0) (2025-01-13)
 
 
